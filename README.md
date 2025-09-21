@@ -58,7 +58,7 @@ Derived actionable insights for hospital performance and patient outcomes.
 - Cost Analysis: Average treatment cost per outcome gave insights into cost-effectiveness.
 
 ## SQL Queries
-
+<a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/healthcare_project_queries.sql"> Dataset </a>
 
 
 ## Final Conclusion
