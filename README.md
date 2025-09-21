@@ -29,7 +29,7 @@
 - Dashboard Interaction Excel <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/Excel.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI1 <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/Powerbi2.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI2 <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/powerbi1.jpg"> View Dashboard </a>
-- Dashboard Interaction Tableau.
+- Dashboard Interaction Tableau <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/Tableau.jpg"> view Dashboard </a>
 
 ## Process
 - Data Collection & Preparation
