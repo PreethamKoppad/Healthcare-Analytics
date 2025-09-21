@@ -26,7 +26,7 @@
 - High risk patients  
 - Gender wise patient  
 - Types of treatment
-- Dashboard Interaction Excel.
+- Dashboard Interaction Excel <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/Excel.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI.
 - Dashboard Interaction Tableau.
 
