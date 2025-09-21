@@ -7,9 +7,7 @@
 - To provide insights that support improving patient care, resource allocation, and operational efficiency.
 
 ## Dataset used
-
-
-
+- <a href="https://github.com/PreethamKoppad/Healthcare-Analytics/blob/main/Data_Healthcare_Patient_V3.xlsx"> Dataset</a>
 
 ## Questions(KPI's and Charts)
 - Total Patients  
